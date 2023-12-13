@@ -21,4 +21,4 @@ public class LinearSearch {
         System.out.println("Key is at index : " + index);
         }
     }
-}
+} 
