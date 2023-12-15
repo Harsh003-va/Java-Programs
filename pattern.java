@@ -1,5 +1,5 @@
 
-/* 
+
 
 // star pattern
 
@@ -15,7 +15,7 @@ public class pattern {
         }
     }
 }
-*/
+
 
 // inverted star pattern
 /* 
@@ -53,19 +53,19 @@ public class pattern {
 
 //Character pattern
 
-public class pattern{
-    public static void main(String arg[]){
-        int n=5;
-        char ch='A';
-        for(int i=1;i<=n;i++){
-            for(int j=1;j<=i;j++)
-            {
-                System.out.print(ch);
-                ch++;
+// public class pattern{
+//     public static void main(String arg[]){
+//         int n=5;
+//         char ch='A';
+//         for(int i=1;i<=n;i++){
+//             for(int j=1;j<=i;j++)
+//             {
+//                 System.out.print(ch);
+//                 ch++;
 
-            }
-            System.out.println();
-        }
+//             }
+//             System.out.println();
+//         }
 
-    }
-}
+//     }
+// }

@@ -28,12 +28,13 @@ public class looppracticeQ {
 } */
 
 // Factorial of a number
-/* 
+
 
 import java.util.*;
 public class looppracticeQ{
     public static void main(String[] args) 
-    {Scanner sc=new Scanner(System.in);
+    {
+        Scanner sc=new Scanner(System.in);
         int num;// To hold number
         int fact=1;// To hold factorial
         System.out.print("Enter any positive integer:");
@@ -45,24 +46,24 @@ public class looppracticeQ{
         System.out.println("Factorial: "+fact);
     }
 }
-*/
-
-import java.util.*;
-public class looppracticeQ{
 
 
-    public static void printMultiplicationTable(int number)
-    {
-        Scanner sc = new Scanner (System.in);
-        System.out.print("Enter number:");
-        int n = sc.nextInt();
-        for(int i=1;i<=10;i++)
-        {
-            System.out.println(n + "*" + i + "=" + n*i);
-        }
-    }
-    public static void main(String arg[]){
-        printMultiplicationTable(5);
-    }
-}
+// import java.util.*;
+// public class looppracticeQ{
+
+
+//     public static void printMultiplicationTable(int number)
+//     {
+//         Scanner sc = new Scanner (System.in);
+//         System.out.print("Enter number:");
+//         int n = sc.nextInt();
+//         for(int i=1;i<=10;i++)
+//         {
+//             System.out.println(n + "*" + i + "=" + n*i);
+//         }
+//     }
+//     public static void main(String arg[]){
+//         printMultiplicationTable(5);
+//     }
+// }
 
