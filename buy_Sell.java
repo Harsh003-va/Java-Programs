@@ -19,4 +19,5 @@ if (buyprice< prices[i]){//profit
         System.out.println(buyAndsellStocks(prices));
     }
     
+    
 }
