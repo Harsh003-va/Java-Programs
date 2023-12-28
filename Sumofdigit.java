@@ -19,4 +19,5 @@ while(n>0){
     System.out.println("The sum is "+ sumDigit(digits));
     }
     
+    
 }
