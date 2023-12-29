@@ -7,7 +7,7 @@ class javamap {
         HashMap<String, Integer> phoneBook = new HashMap<>();
         int n = in.nextInt();
         in.nextLine();
-
+     // for loop
         for (int i = 0; i < n; i++) {
             String name = in.nextLine();
             int phone = in.nextInt();
