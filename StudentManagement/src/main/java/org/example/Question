@@ -1,0 +1,4 @@
+1.implement a Student Management System using OOP principles
+Features, Add , remove , and  display student details (name,age, grade).
+Use  Arraylist for storing student records and custom Exception Handling  for invalid data.
+(in memory Arraylist);
